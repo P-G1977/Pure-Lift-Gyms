@@ -160,9 +160,9 @@ h1, h2, h3 {
 
 /* Media Queries*/
 
-/*@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
     /* stop subheading underline crossing into subheading */
-    /*.title::before {
+    .title::before {
         content: '';
         background-color: #3c3c3c;
         height: 5px;
@@ -173,4 +173,4 @@ h1, h2, h3 {
         transform: translateY(50px);
     }
 
-}*/
+}
