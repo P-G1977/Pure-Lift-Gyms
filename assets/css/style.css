@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Radley:ital@0;1&display=swap');
+
+/* Global styles */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Inter", serif;
+    background-color: white;
+}
+
+h1, h2, h3 {
+    font-family:"Radley", serif;
+    color: black;
+    text-transform: uppercase;
+}
+
+/* Buttons */
+
+.custom-button-filled {
+    border: 2px solid rgb(204, 226, 249);
+    background-color: rgb(189, 195, 199);
+    color: black;
+}
+
+.custom-button-filled:hover {
+    border: 2px solid rgb(183, 213, 246);
+    background-color: rgb(137, 142, 146);
+    color: white;
+}
+
+/* Navbar*/
+
+#navbar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+#navbar .logo {
+    height: 50px;
+    padding-left: 10px;
+}
+
+.navbar {
+    background-image: linear-gradient(to right, #f9f9f9, #b4b4b4);
+    padding: 0 !important;
+}
+
+.navbar-nav li {
+    padding: 0 2px;
+}
+
+.navbar-nav li a {
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+
+.fa-bars-staggered {
+    color: #3c3c3c;
+    font-size: 30px !important;
+}
+
+.navbar-toggler {
+    outline: none !important;
+}
