@@ -68,3 +68,23 @@ h1, h2, h3 {
 .navbar-toggler {
     outline: none !important;
 }
+
+/* banner */
+
+.bottom-img {
+    width: 115% ;
+    margin-bottom: -6%;
+    margin-left: -6%;
+ }
+
+#banner {
+    background-image: linear-gradient(to right, #f9f9f9, #b4b4b4);
+    color: #3c3c3c;
+    padding: 5%;
+}
+
+/*.promo-title {
+    font-size: 50px;
+    font-weight: 600;
+    margin-top: 50px;
+}*/
