@@ -145,6 +145,16 @@ h1, h2, h3 {
 
 }
 
+#about .btn-about:hover {
+    box-shadow: none;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to left, #f9f9f9, #b4b4b4);
+    color: black;
+
+}
+
 
 #about .card {
     margin-bottom: 1rem;
