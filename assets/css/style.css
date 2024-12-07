@@ -228,6 +228,23 @@ h1, h2, h3 {
     height: 100% !important;
 }
 
+/*Social Media section*/
+
+#social-media {
+    padding: 100px 0;
+}
+
+.social-icons img {
+    width: 60px;
+    transition: 0.5s;
+
+}
+
+.social-icons a:hover img {
+    transform: translateY(-10px);
+
+}
+
 
 
 
