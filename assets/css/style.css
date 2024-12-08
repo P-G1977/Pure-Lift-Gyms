@@ -32,6 +32,18 @@ h1, h2, h3 {
     color: white;
 }
 
+.custom-button-filled-news {
+    border: 2px solid rgb(81, 83, 84);
+    background-color: rgb(81, 83, 84);
+    color: white;
+}
+
+.custom-button-filled-news:hover {
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+}
+
 /* Navbar*/
 
 #navbar {
@@ -244,6 +256,45 @@ h1, h2, h3 {
     transform: translateY(-10px);
 
 }
+
+/* footer */
+
+#footer {
+    background-image: linear-gradient(to right, #f9f9f9, #b4b4b4);
+}
+
+.footer-img {
+    width: 100%;
+}
+
+.footer-box {
+    padding: 20px;
+}
+
+
+.footer-box img {
+    width: 120px;
+    margin-bottom: 20px;
+}
+
+.footer-box .fa {
+    margin-right: 8px;
+    font-size: 25px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    padding-top: 7px;
+    border-radius: 2px;
+}
+
+.footer-box .form-control {
+    box-shadow: none;
+    border: none;
+    border-radius: 0;
+    margin-top: 25px;
+    max-width: 250px;
+}
+
 
 
 
