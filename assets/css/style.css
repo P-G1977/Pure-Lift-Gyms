@@ -480,8 +480,6 @@ h1, h2, h3 {
 }
 
 
-
-
 @media screen and (max-width: 768px) {
     /* stop subheading underline crossing into subheading */
     .title::before {
@@ -495,4 +493,16 @@ h1, h2, h3 {
         transform: translateY(50px);
     }
 
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px){
+    #gallery .card {
+        min-height: 352.63px;
+    }
+}
+
+@media screen and (min-width: 993px) and (max-width: 1200px){
+    #gallery .card {
+        min-height: 434.23px;
+    }
 }
