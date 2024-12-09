@@ -1,3 +1,5 @@
+/* Google Fonts */
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Radley:ital@0;1&display=swap');
 
 /* Global styles */
@@ -252,6 +254,26 @@ h1, h2, h3 {
 
 #gallery .card h3 {
     padding-top: 10px;
+}
+
+#gallery .btn-about {
+    box-shadow: none;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #f9f9f9, #b4b4b4);
+    color: black;
+
+}
+
+#gallery .btn-about:hover {
+    box-shadow: none;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to left, #f9f9f9, #b4b4b4);
+    color: black;
+
 }
 
 /*Social Media section*/
