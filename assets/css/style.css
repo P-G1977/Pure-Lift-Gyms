@@ -240,6 +240,20 @@ h1, h2, h3 {
     height: 100% !important;
 }
 
+/*Galleries section*/
+
+#gallery {
+    padding: 30px 0;
+}
+
+#gallery .card {
+    border: none !important;
+}
+
+#gallery .card h3 {
+    padding-top: 10px;
+}
+
 /*Social Media section*/
 
 #social-media {
