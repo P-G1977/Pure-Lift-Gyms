@@ -30,4 +30,6 @@ This is an experimental site for a fictional company called Pure Fit Gyms, compl
 
         1. As a Frequent User, I want a company newletter emailed to me so I can see any changes, events, and updates about the company.
 
+---
+
 
