@@ -32,4 +32,16 @@ This is an experimental site for a fictional company called Pure Fit Gyms, compl
 
 ---
 
+## Design
+
+### Color Scheme
+
+| Main Colors   | Typorgraphy   |
+| ------------- |:-------------:|
+| Black         | Black         |
+| White         |               |
+| #f9f9f9       |               |
+| #b4b4b4       |               |
+
+
 
