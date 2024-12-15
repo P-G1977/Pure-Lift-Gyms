@@ -34,7 +34,7 @@ This is an experimental site for a fictional company called Pure Fit Gyms, compl
 
 ## Design
 
-### Color Scheme
+* ### Color Scheme
 
 | Main Colors   | Typorgraphy   |
 | ------------- |:-------------:|
@@ -45,18 +45,18 @@ This is an experimental site for a fictional company called Pure Fit Gyms, compl
 
 
 
-## Typography
+* ### Typography
 
-### Radley Font
+#### Radley Font
 
 ![alt text](assets/docs/fonts/Radley-font.png "Radley Font")
 
 Radley font from [Google Fonts](https://fonts.google.com/) is used on the main heading and subheadings of the site, with a fallback of the Serif font in case the font isn't being imported correctly. Radley is the font I thought looked strong and relevant for a gym website.
 
-### Inter Font
+#### Inter Font
 
  ![alt text](assets/docs/fonts/Inter-font.png "Radley Font")
 
  Inter font from [Google Fonts](https://fonts.google.com/) is used in the body of the website, with a fallback of the Serif font. Inter font is clear and simple which I thought worked well for descriptions and captions that are easy to read.
 
-
+* ### Imagery
