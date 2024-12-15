@@ -319,6 +319,11 @@ h1, h2, h3 {
     max-width: 250px;
 }
 
+/* Success page */
+
+#success {
+    padding: 60px 0;
+}
 
 
 
