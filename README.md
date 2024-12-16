@@ -78,3 +78,27 @@ Radley font from [Google Fonts](https://fonts.google.com/) is used on the main h
     * Gallery Page Mobile Wireframe - [Link Here](assets/docs/wireframe/mobile-gall-wire.png)
 
 The Wireframes have the full Navigation Bar on the Desktop and Tablet and a collapsed NavBar on the Mobile Wireframe. The Social Media Icons are on all Wireframes and shrink nicely on all screen sizes. The NavBar is bold and easy to read so I thought it would not be necessary for it to be the collapsed version on Tablet devices.
+
+## Features
+
+* Responsive on all device sizes.
+
+* Reviews from previous clients.
+
+* Links to social media accounts.
+
+* An About section with images and Fontawsome icons showing images of the Company.
+
+* Company newsletter available to request from footer.
+
+* An interactive map showing the exact location of the company.
+
+* A form for new users to fill and request more information about prices and discounts.
+
+* A Gallery section with more images and infomation about the company.
+
+## Technologies Used
+
+### Languages Used
+
+* 
