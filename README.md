@@ -101,4 +101,12 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
 ### Languages Used
 
-* 
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+
+* [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3)
+
+### Frameworks, Libraries & Programs Used
+
+1. [Bootstrap v5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+    
+    * Boostrap was used to assist with the responsiveness and styling of the website.
