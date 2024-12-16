@@ -60,3 +60,21 @@ Radley font from [Google Fonts](https://fonts.google.com/) is used on the main h
  Inter font from [Google Fonts](https://fonts.google.com/) is used in the body of the website, with a fallback of the Serif font. Inter font is clear and simple which I thought worked well for descriptions and captions that are easy to read.
 
 * ### Imagery
+
+    * The background hero image is designed to catch the user's attention and to quickly describe the purpose of the business to the visitor. The image looks like it is breaking through the landing page and has an energetic aesthetic.
+
+* ### Wireframes
+
+    * Home Page Desktop Wireframe - [Link Here](assets/docs/wireframe/desktop-wire.png)
+
+    * Home Page Tablet Wireframe - [Link Here](assets/docs/wireframe/tablet-wire.png)
+
+    * Home Page Mobile Wireframe - [Link Here](assets/docs/wireframe/mobile-wire.png)
+
+    * Gallery Page Desktop Wireframe - [Link Here](assets/docs/wireframe/desktop-gall-wire.png)
+
+    * Gallery Page Tablet Wireframe - [Link Here](assets/docs/wireframe/tablet-gall-wire.png)
+
+    * Gallery Page Mobile Wireframe - [Link Here](assets/docs/wireframe/mobile-gall-wire.png)
+
+The Wireframes have the full Navigation Bar on the desktop and tablet and a collapsed NavBar on the Mobile Wireframe. The Social Media Icons are on all Wireframes and shrink nicely on all screen sizes. The NavBar is bold and easy to read so I thought it would not be necessary for it to be the collapsed version on Tablet devices.
