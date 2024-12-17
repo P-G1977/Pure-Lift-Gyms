@@ -226,12 +226,12 @@ h1, h2, h3 {
     height: 0;
 }
 
-.map-responsive iframe {
+.map-responsive img {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100% !important;
-    height: 100% !important;
+    width: 120% !important;
+    height: 120% !important;
 }
 
 /*Galleries section*/
