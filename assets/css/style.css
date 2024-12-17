@@ -166,6 +166,10 @@ h1, h2, h3 {
     background-image: linear-gradient(to left, #f9f9f9, #f0f0f0);
 }
 
+.aboutp {
+    padding: 1rem;
+}
+
 /* reviews */
 
 .top-img {
@@ -498,4 +502,18 @@ h1, h2, h3 {
     #gallery .card {
         min-height: 434.23px;
     }
+
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1400px){
+    #about .card {
+        min-height: 545.87px;
+    }
+}
+
+@media screen and (min-width: 1400px){
+    #about .card {
+        min-height: 433.74px;
+    }
+
 }
