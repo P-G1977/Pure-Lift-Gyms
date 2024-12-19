@@ -99,9 +99,15 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
     * There is a Company Logo at the top left of the header section, that will take the user to the home page when it is clicked.
 
     * The Company Logo and Header section set the main color theme; white, black and a linear gradiant grey.
-    ![alt text](assets/docs/pages/header.png)
+    ![alt text](assets/docs/pages/header.png "The header section image")
 
 * Reviews from previous clients.
+
+    * The reviews section is situated below the about section on the home page and consists of two reviews from a male and a female. 
+    ![alt text](assets/docs/pages/review.png "The review section image")
+
+    * On smaller screens the reviews sit on top of each other, female first and male review sitting below.
+    
 
 * Links to social media accounts.
 
