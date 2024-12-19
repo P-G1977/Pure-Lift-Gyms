@@ -4,6 +4,8 @@
 
 This is an experimental site for a fictional company called Pure Fit Gyms, completed for my Milestone 1 project in L5 Web Application Development. The site is designed to be responsive on a range of devices and easy to navigate. I wanted to make the site simple and interesting to hopefully capture the users view and keep them engaged.
 
+Users of the website are able to find information about the gym, reviews from people who have used the gym, and an easy way to find / contact the gym for more information. There is also a Gallery page to show more information about what is available at the gym.
+
 ---
 
 ![alt text](assets/docs/pages/contact.png "Logo title contact 1")
@@ -63,6 +65,9 @@ Radley font from [Google Fonts](https://fonts.google.com/) is used on the main h
 
     * The background hero image is designed to catch the user's attention and to quickly describe the purpose of the business to the visitor. The image looks like it is breaking through the landing page and has an energetic aesthetic.
 
+![alt text](assets/docs/pages/hero.png)
+
+
 * ### Wireframes
 
     * Home Page Desktop Wireframe - [Link Here](assets/docs/wireframe/desktop-wire.png)
@@ -82,6 +87,19 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 ## Features
 
 * Responsive on all device sizes.
+
+* Navigation Bar
+
+    * Sitting at the top of all three pages. The navigation links are situated to the right of the page.
+
+    * On larger screen the navigation links show text; Home, About, Reviews, Gallery and Contact. The navigation bar collapses on smaller screens just below 768px, and the links are situated in the burger icon that expands when you click it with the links showing accross the right of the screen.
+
+* The Header
+
+    * There is a Company Logo at the top left of the header section, that will take the user to the home page when it is clicked.
+
+    * The Company Logo and Header section set the main color theme; white, black and a linear gradiant grey.
+    ![alt text](assets/docs/pages/header.png)
 
 * Reviews from previous clients.
 
