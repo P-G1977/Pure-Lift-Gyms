@@ -137,7 +137,13 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
         ![alt text](assets/docs/pages/social-media.png "Social media web page image")
 
-* Company newsletter available to request from footer.
+* The Footer with an option to subscribe to the company newsletter.
+
+    * The Footer contains the Company Logo and ways to contact the conpany by email or phone. Fontawesome icons are added so there are more visual cues to catch the users eye.
+
+    * There is an option to subscribe to the company newsletter in this section. The subscribe option is bold and easy for the user to interact with.
+
+        ![alt text](assets/docs/pages/footer-subscribe.png)
 
 * A Gallery section with more images and infomation about the company.
 
