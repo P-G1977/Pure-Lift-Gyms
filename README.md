@@ -88,24 +88,32 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
 * Responsive on all device sizes.
 
-* Navigation Bar
+* Navigation Bar.
 
     * Sitting at the top of all three pages. The navigation links are situated to the right of the page.
 
     * On larger screen the navigation links show text; Home, About, Reviews, Gallery and Contact. The navigation bar collapses on smaller screens just below 768px, and the links are situated in the burger icon that expands when you click it with the links showing accross the right of the screen.
 
-* The Header
+* The Header.
 
     * There is a Company Logo at the top left of the header section, that will take the user to the home page when it is clicked.
 
     * The Company Logo and Header section set the main color theme; white, black and a linear gradiant grey.
     ![alt text](assets/docs/pages/header.png "The header section image")
 
-* Favicon
+* Favicon.
 
-    * Originally I tried to make a logo for the company into a Favicon. After trying differnt ideas I decided a more effective Favicon would be a simple dumbbell nect to the page name.
+    * Originally I tried to make a logo for the company into a Favicon. After trying differnt ideas I decided a more effective Favicon would be a simple dumbbell next to the page name.
     
         ![alt text](assets/docs/pages/favicon.png "Favicon image")
+
+* An About section with images of the company and Fontawesome Icons.
+
+    * This section contains information on why the user should consider using the company.
+
+    * The section has a Contact button underneath the text, so it is easy for the user to contact the company at this stage.
+
+        ![alt text](assets/docs/pages/about.png "The About section image of the website")
 
 * Reviews from previous clients.
 
@@ -113,15 +121,19 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
     ![alt text](assets/docs/pages/review.png "The review section image")
 
     * On smaller screens the reviews sit on top of each other, female first and male review sitting below.
-    
+
+
+* An interactive map showing the exact location of the company and a Contact form.
+
+    * This section originally had an interactive Iframe map element, which I changed to an image. More informtion on the reasons for this change can be found in the 'issues' section.
+
+    * There is a Contact form next to the map that makes it easy to contact the company for more information. The map and form are fully responsive and sit on top of each other on Mobile screens.
+
+        ![alt text](assets/docs/pages/contact-us.png "Contact-us page image with map")
 
 * Links to social media accounts.
 
-* An About section with images and Fontawsome icons showing images of the Company.
-
 * Company newsletter available to request from footer.
-
-* An interactive map showing the exact location of the company.
 
 * A form for new users to fill and request more information about prices and discounts.
 
