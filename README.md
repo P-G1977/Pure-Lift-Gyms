@@ -101,6 +101,12 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
     * The Company Logo and Header section set the main color theme; white, black and a linear gradiant grey.
     ![alt text](assets/docs/pages/header.png "The header section image")
 
+* Favicon
+
+    * Originally I tried to make a logo for the company into a Favicon. After trying differnt ideas I decided a more effective Favicon would be a simple dumbbell nect to the page name.
+    
+        ![alt text](assets/docs/pages/favicon.png "Favicon image")
+
 * Reviews from previous clients.
 
     * The reviews section is situated below the about section on the home page and consists of two reviews from a male and a female. 
