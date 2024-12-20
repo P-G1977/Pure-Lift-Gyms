@@ -133,9 +133,11 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
 * Links to social media accounts.
 
-* Company newsletter available to request from footer.
+    * The links to the Social Media are situated just above the Footer. Using the translate(Y) CSS function the icons reposition vertically 10 pixels, which creates a pleasant effect when hovered over.
 
-* A form for new users to fill and request more information about prices and discounts.
+        ![alt text](assets/docs/pages/social-media.png "Social media web page image")
+
+* Company newsletter available to request from footer.
 
 * A Gallery section with more images and infomation about the company.
 
