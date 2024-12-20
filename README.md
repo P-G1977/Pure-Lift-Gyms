@@ -147,6 +147,12 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
 * A Gallery section with more images and infomation about the company.
 
+    * The Gallery section is on a seperate page to the home page and shows more information about the company with images and descriptions. 
+
+    * This section shows an image of the company and images of the trainers and equipment that users can expect at the company. There is a contact button just underneath this section that will take the user to the contact form on the home page when clicked.
+
+        ![alt text](assets/docs/pages/gallery.png "gallery image of the website")
+
 ## Technologies Used
 
 ### Languages Used
