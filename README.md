@@ -166,3 +166,39 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 1. [Bootstrap v5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
     
     * Boostrap was used to assist with the responsiveness and styling of the website.
+
+2. [Hover.css](https://ianlunn.github.io/Hover/)
+
+    * Hover.css was used on the Social Media Icons in the Social Media setion to add the float transition while being hovered over.
+
+3. [Google Fonts](https://fonts.google.com/)
+
+    * Google fonts were used to import the 'Radley' and 'Inter' fonts into the style.css file which is used on all the pages throughout the project.
+
+4. [Font Awesome](https://fontawesome.com/)
+
+    * Font Awesome was used on all pages throughout the webite to add icons for aesthetic and UX purposes.
+
+5. [jQuery](https://jquery.com/)
+
+    * jQuery came with Bootstrap to make the navbar responsive and was also used for the smooth scroll function in JaveScript.
+
+6. [Git](https://git-scm.com/)
+
+    * Git was used for the version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+
+7. [GitHub](https://github.com/)
+
+    * GitHub is used to store the projects code after being pushed to GitHub.
+
+8. [Gimp](https://www.gimp.org/about/)
+
+    * The GNU Image Manipulation Program, commonly known as GIMP, is a free and open-source rastor graphics editor which was used to create the logo, waves, resizing images and editing photos for the website.
+
+9. [Balsamiq](https://balsamiq.com/)
+
+    * Balsamiq was used to create the [wireframes](assets/docs/wireframe/) during the design process.
+
+10. [Favicon](https://favicon.io/)
+
+    * [Favicon generator](https://favicon.io/favicon-generator/) was used to create the Favicon for the website.
