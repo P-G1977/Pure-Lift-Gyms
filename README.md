@@ -155,7 +155,7 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
 ### Features Left To Implement
 
-    * I would like to create a webshop so users can easily enroll and use services. The webshop will contain all the different packages to choose when it comes to using the company. Gym membership and classes would be used mainly in the webshop, and also day passes and student passes with valid student ID. 
+* I would like to create a webshop so users can easily enroll and use services. The webshop will contain all the different packages to choose when it comes to using the company. Gym membership and classes would be used mainly in the webshop, and also day passes and student passes with valid student ID. 
 
 ## Technologies Used
 
@@ -206,3 +206,38 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 10. [Favicon](https://favicon.io/)
 
     * [Favicon generator](https://favicon.io/favicon-generator/) was used to create the Favicon for the website.
+
+## Testing
+
+* Accesibility
+
+    * I ran the website through Lighthouse in Chrome Devtools to confirm that the colors and fonts are easy to read and the site is accessible.
+
+    ![alt text](assets/docs/testing/lighthouse.png "Lighthouse image from chrome devtools")
+
+    * Used semantic HTML elements.
+
+    * I have made sure the colors contrast well together to keep the elements easily identifiable and readable.
+
+    * The website has been tested and works fully on browsers; Chrome, Safari, Firefox, Brave and Microsoft Edge.
+
+    * I have tested the website on Iphone 12, Iphone SE, Samsung Galaxy Flip 2 and Samsung Galaxy S24.
+
+    * All external links for the Social Media icons open in a seperate tab.
+
+    * All internal links work and redirect the user between the pages.
+
+    * The Contact Form works and has the autocomplete setting on, all fields are required, the form select option displays select, the email field only accepts an email address and the submit button link works and directs to the success page.
+
+        ![alt text](assets/docs/testing/successs.png "Success page after filling in form")
+
+* HTML
+
+    * No errors found when running the HTML code through [W3C HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fp-g1977.github.io%2FPure-Lift-Gyms%2F)
+    ![alt text](assets/docs/testing/nuhtmlpagevalidator.png "HTML validator results for pure fit gyms site")
+
+* CSS
+
+    * No errors found when running the CSS code through [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fp-g1977.github.io%2FPure-Lift-Gyms%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+    ![alt text](assets/docs/testing/nucsspagevalidation.png)
+
