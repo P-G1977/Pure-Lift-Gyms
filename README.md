@@ -153,6 +153,10 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
         ![alt text](assets/docs/pages/gallery.png "gallery image of the website")
 
+### Features Left To Implement
+
+    * I would like to create a webshop so users can easily enroll and use services. The webshop will contain all the different packages to choose when it comes to using the company. Gym membership and classes would be used mainly in the webshop, and also day passes and student passes with valid student ID. 
+
 ## Technologies Used
 
 ### Languages Used
