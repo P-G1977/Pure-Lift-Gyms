@@ -313,6 +313,8 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
     * [responsive map CSS code idea](https://stackoverflow.com/questions/15421369/responsive-google-map).
 
+* The majority of knowledge on how to create this first website has been thanks to [The Code Institute](https://codeinstitute.net/).
+
 ### Support
 
 * A special thanks to my mentor Spencer Barriball for all the support and help he has given through this project. I'm lucky to have such a great mentor! 
