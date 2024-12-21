@@ -88,6 +88,10 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
 * Responsive on all device sizes.
 
+* Waves breaking up sections. I made this website to have sections which are mostly on one page, however I did not want harsh breaks in colors splitting the sections. So I created wave images that align at the bottom of each section. This creates a pleasing aesthetic.
+
+    ![alt text](assets/docs/pages/wave.png "wave image breaking sections in website")
+
 * Navigation Bar.
 
     * Sitting at the top of all three pages. The navigation links are situated to the right of the page.
