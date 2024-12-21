@@ -285,9 +285,38 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type `git clone`, and then paste the URL you copied in Step 3.
     
-    `$ git clone https://github.com/P-G1977/Pure-Lift-Gyms.git`
+     `$ git clone https://github.com/P-G1977/Pure-Lift-Gyms.git`
 
 7. Press Enter. Your local clone will be created.
+
+## Credits
+
+### Images
+
+* All gym images were used from [pixabay](https://pixabay.com/images/search/gym/) which provides royalty-free images.
+
+* The dumbell Favicon was created using an image from [emojis.sh](https://emojis.sh/).
+
+* The hero image was used from [cleanpng](https://www.cleanpng.com/) who also provides royalty-free images.
+
+* The male and female image in the reviews section are also used from Pixabay and here are the links: [Male](https://pixabay.com/photos/portrait-people-adult-man-face-3353699/), [Female](https://pixabay.com/photos/woman-portrait-model-smile-smiling-657753/).
+
+### Code help
+
+* While researching how I'd create this site I studied many ideas used from [Stackoverflow](https://stackoverflow.com/) and [developer.mozilla](https://developer.mozilla.org/en-US/).
+
+    * [Linear gradient CSS code idea](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient).
+
+    * [before:after CSS code idea](https://stackoverflow.com/questions/22352618/css-before-after-content-with-title).
+
+    * [translate(Y) CSS code idea](https://stackoverflow.com/questions/15317020/css3-translate-out-of-screen).
+
+    * [responsive map CSS code idea](https://stackoverflow.com/questions/15421369/responsive-google-map).
+
+### Support
+
+* A special thanks to my mentor Spencer Barriball for all the support and help he has given through this project. I'm lucky to have such a great mentor! 
+
 
 
 
