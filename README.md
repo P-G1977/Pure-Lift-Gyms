@@ -241,3 +241,12 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
     * No errors found when running the CSS code through [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fp-g1977.github.io%2FPure-Lift-Gyms%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
     ![alt text](assets/docs/testing/nucsspagevalidation.png)
 
+## Bugs / Issues
+
+* I originally used and Iframe embed for Google Maps next to the Contact form which was interactive and opened in Google maps when choosing fullscreen. Unfortunately this dropped my best practices score in Lighthouse to 79. I reviewed as much information from the web that I could to try and make this work without creating 5 Cookies, but after consultation with my tutor he advised the best idea would be to use an image of the map instead.
+
+* The waves that break up the sections created many problems at the start of the project. Upon reaching 400 pixels in devtools they broke out of their sections and there were visible gaps showing. I solved this problem by creating many Media Queries that move the wave images into the correct positions when the screen is shrunk up until 300 pixels wide.
+
+### Unfixed bugs
+
+* No unfixed bugs.
