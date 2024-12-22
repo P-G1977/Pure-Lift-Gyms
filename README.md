@@ -305,13 +305,20 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
 * The male and female image in the reviews section are also used from Pixabay and here are the links: [Male](https://pixabay.com/photos/portrait-people-adult-man-face-3353699/), [Female](https://pixabay.com/photos/woman-portrait-model-smile-smiling-657753/).
 
+### Design Help
+
+* The original wave section idea came from this post; [How to create a wave for background using HTML & CSS](https://www.geeksforgeeks.org/how-to-create-a-wave-image-for-a-background-using-html-and-css/). However after trying to use this I decided creating a wave in [GIMP](https://www.gimp.org/about/) and using it as an image and placing at the top / bottom of each section would work too.
+
+* The above post also helped me research more about [::before](https://www.geeksforgeeks.org/css-before-selector/) and [::after](https://www.geeksforgeeks.org/css-after-selector/) that I used for the underlining of the subtitles in my project.
+
+* The following post helped with the idea of using a [banner](https://www.quora.com/How-can-I-make-a-banner-in-HTML-using-the-div-tag) at the top of my page.
+
+
 ### Code help
 
 * While researching how I'd create this site I studied many ideas used from [Stackoverflow](https://stackoverflow.com/) and [developer.mozilla](https://developer.mozilla.org/en-US/).
 
     * [Linear gradient CSS code idea](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient).
-
-    * [before:after CSS code idea](https://stackoverflow.com/questions/22352618/css-before-after-content-with-title).
 
     * [translate(Y) CSS code idea](https://stackoverflow.com/questions/15317020/css3-translate-out-of-screen).
 
