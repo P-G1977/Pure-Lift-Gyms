@@ -338,6 +338,8 @@ h1, h2, h3 {
 
 /* Media Queries*/
 
+/* to make wave images responsive */
+
 @media screen and (min-width: 300px) {
     .bottom-img {
         width: 115% ;
