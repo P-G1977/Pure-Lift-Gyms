@@ -213,6 +213,40 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
 ## Testing
 
+### Testing User Stories from User Experience (UX) Section
+
+* First Time Visitor Goals
+
+1. As a First Time Visitor, I want to understand the main purpose of the site and learn about the company with high quality images and engaging descriptions.
+    
+    i. When the user first enters the site, they are greeted with a clean and easily readable navigation bar where they can go to the page of their choice. Underneath the navigation bar there is a Hero Image with the company name that's bold and catches the users eye.
+
+    ii. There is a brief welcome statement underneath the Company Logo that describes the nature of the site, and a call to action button "Contact".
+
+    iii. The main points are made immediately with the description and the hero image.
+
+    iiii. The user now has two options, click the call to action button to contact the Company straight away, or scroll down the page to find more information.
+
+    ![alt text](assets/docs/testing/hero-ux.png "hero image and contact page")
+
+
+    2. As a First Time Visitor, I'd like a user-friendly design so I can find information about the company quickly and easily.
+    3. As a First Time Visitor, I want to look for reviews of the company to understand what previous clients think.
+    4. As a First Time Visitor, I'd like to see information that shows me the benefits of using the company. 
+
+* Returning Visitor Goals
+
+    1. As a Returning Visitor, I want to be able to contact the company for information about prices and discounts.
+    2. As a Returning Visitor, I want to find the company easily.
+    3. As a Returning Visitor, I want to find social media links for the company so I can see information about their followings and comments from people who have used the company.
+
+* Frequent Visitor Goals
+
+    1. As a Frequent User, I want a company newletter emailed to me so I can see any changes, events, and updates about the company.
+
+
+## Further Testing
+
 * Accesibility
 
     * I ran the website through Lighthouse in Chrome Devtools to confirm that the colors and fonts are easy to read and the site is accessible.
