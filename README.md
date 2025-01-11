@@ -241,14 +241,13 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
     ![alt text](assets/docs/testing/about-ux.png "about section from Pure Fit website")
 
+3. As a First Time Visitor, I want to look for reviews of the company to understand what previous clients think.
 
+    i. Once the new visitor has looked through the About section and understood exactly what the Company offers, they will be able to see the reviews from previous clients.
 
+    ii. The section is designed to look professional and grab the user's attention, so new users can see a brief review and photo that describes previous clients thoughts about the Company. A name has been added for a more personal feel.
 
-
-
-
-    3. As a First Time Visitor, I want to look for reviews of the company to understand what previous clients think.
-    4. As a First Time Visitor, I'd like to see information that shows me the benefits of using the company. 
+ 4. As a First Time Visitor, I'd like to see information that shows me the benefits of using the company. 
 
 * Returning Visitor Goals
 
