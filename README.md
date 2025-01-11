@@ -229,8 +229,24 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
     ![alt text](assets/docs/testing/hero-ux.png "hero image and contact page")
 
+2. As a First Time Visitor, I'd like a user-friendly design so I can find information about the company quickly and easily.
 
-    2. As a First Time Visitor, I'd like a user-friendly design so I can find information about the company quickly and easily.
+    i. At the top of the page there is a clean navigation bar, all clearly describe what page the user will end up at clearly and easily.
+
+    ii. On the "About" page the user can find more in-depth information about the Company, with high quality images showing the clients using the equipment and images of the type of services offered. Underneath the images are clear and easily readable descriptions detailing the services offered with [Font Awesome](https://fontawesome.com/) icons helping to catch the users eye, and provide a more professional look and feel.
+
+    iii. Underneath the images and descriptions in the About section there is more information describing the Company, when it was founded, and services available to the user.
+
+    iiii. There is also a Contact button underneath the description so the User can choose to contact the company from this section too.
+
+    ![alt text](assets/docs/testing/about-ux.png "about section from Pure Fit website")
+
+
+
+
+
+
+
     3. As a First Time Visitor, I want to look for reviews of the company to understand what previous clients think.
     4. As a First Time Visitor, I'd like to see information that shows me the benefits of using the company. 
 
