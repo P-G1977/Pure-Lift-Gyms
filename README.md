@@ -221,11 +221,11 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
     
     i. When the First Time Visitor enters the site, they are greeted with a clean and easily readable navigation bar where they can go to the page of their choice. Underneath the navigation bar there is a Hero Image with the company name that's bold and catches the users eye.
 
-    ii. There is a brief welcome statement underneath the Company Logo that describes the nature of the site, and a call to action button "Contact".
+    ii. There is a brief welcome statement underneath the company Logo that describes the nature of the site, and a call to action button "Contact".
 
     iii. The main points are made immediately with the description and the hero image.
 
-    iiii. The First Time Visitor now has two options, click the call to action button to contact the Company straight away, or scroll down the page to find more information.
+    iiii. The First Time Visitor now has two options, click the call to action button to contact the company straight away, or scroll down the page to find more information.
 
     ![alt text](assets/docs/testing/hero-ux.png "hero image and contact page")
 
@@ -233,7 +233,7 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
     i. At the top of the page there is a clean navigation bar, all describe what page the First Time Visitor will end up at clearly and easily.
 
-    ii. On the "About" page the First Time Visitor can find more in-depth information about the Company, with high quality images showing the clients using the equipment and images of the type of services offered. Underneath the images are clear and easily readable descriptions detailing the services offered with [Font Awesome](https://fontawesome.com/) icons helping to catch the users eye, and provide a more professional look and feel.
+    ii. On the "About" page the First Time Visitor can find more in-depth information about the company, with high quality images showing the clients using the equipment and images of the type of services offered. Underneath the images are clear and easily readable descriptions detailing the services offered with [Font Awesome](https://fontawesome.com/) icons helping to catch the users eye, and provide a more professional look and feel.
 
     iii. Underneath the images and descriptions in the About section there is more information describing the Company, when it was founded, and services available to the First Time Visitor.
 
@@ -243,15 +243,17 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
 3. As a First Time Visitor, I want to look for reviews of the company to understand what previous clients think.
 
-    i. Once the First Time Visitor has looked through the About section and understood exactly what the Company offers, they will be able to see the reviews from previous clients.
+    i. Once the First Time Visitor has looked through the About section and understood exactly what the company offers, they will be able to see the reviews from previous clients.
 
-    ii. The section is designed to look professional and grab the First Time Visitor's attention, so new users can see a brief review and photo that describes previous clients thoughts about the Company. A name has been added for a more personal feel.
+    ii. The section is designed to look professional and grab the First Time Visitor's attention, so new users can see a brief review and photo that describes previous clients thoughts about the company. A name has been added for a more personal feel.
+
+    ![alt text](assets/docs/testing/review-ux.png "Review section to Pure Lift gyms website")
 
  4. As a First Time Visitor, I'd like to see information that shows me the benefits of using the company.
 
-    i. In the Gallery section the First Time Visitor can see more detailed images of the Company, the equipment and Personal Trainers.
+    i. In the Gallery section the First Time Visitor can see more detailed images of the company, the equipment and Personal Trainers.
 
-    ii. This section provides the benefit of using the Company by showing the wide range of services and eqiupment offered, with brief descriptions providing information why these can be of benefit to the First Time Visitor.
+    ii. This section provides the benefit of using the company by showing the wide range of services and eqiupment offered, with brief descriptions providing information why these can be of benefit to the First Time Visitor.
 
     ![alt text](assets/docs/testing/gallery-ux.png "gallery section of Pure Lift website")
 
@@ -271,13 +273,15 @@ The Wireframes have the full Navigation Bar on the Desktop and Tablet and a coll
 
     i. The social media section is just above the Footer of the page and has links to Facebook, Instagram, Twitter (x), and Snapchat. Each link opens in a new tab and more information about the Company can be found on each Social Media page.
 
+    ![alt text](assets/docs/testing/social-media-ux.png "social media section of Pure Lift website")
+
 * Frequent Visitor Goals
 
 1. As a Frequent User, I want a company newletter emailed to me so I can see any changes, events, and updates about the company.
 
     i. Frequent Visitors can subscribe to receive a newsletter by inputting their email address in the form provided on the right hand side of the Footer. 
 
-    ii. The telephone number and email address are provided in the Footer so Frequent Visitors can contact via these if they prefer. A telephone number and Company email address can help to provide a more trustworthy image.
+    ii. The telephone number and email address are provided in the Footer so Frequent Visitors can contact via these if they prefer. A telephone number and company email address can help to provide a more trustworthy image.
 
     ![alt text](assets/docs/testing/subscribe-ux.png "telephone number, email address and subscribe newsletter field")
 
